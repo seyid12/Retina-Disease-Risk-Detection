@@ -25,7 +25,7 @@ The model's performance was evaluated on an independent test dataset:
 
 ## File Structure
 - `retina-disease-risk.ipynb`: Jupyter Notebook containing all the code for data preparation, model training, and evaluation.
-- `retina_disease_risk.h5`: Trained Keras model (stored using Git LFS due to its size).
+- `retina_disease_risk_compressed.h5`: Trained Keras model (stored using Git LFS due to its size).
 
 ## Setup and Usage
 1. **Install Git LFS:**
