@@ -55,3 +55,5 @@ LinkedIn: https://www.linkedin.com/in/seyid-yıldız-310091349
 
 ```bash
 git lfs install
+
+git clone https://github.com/seyid12/Retina-Disease-Risk-Detection.git
